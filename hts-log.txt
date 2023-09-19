@@ -1,0 +1,13 @@
+HTTrack3.49-2 launched on Fri, 15 Sep 2023 09:30:15 at https://bestwpware.com/html/tf/edumim/?storefront=envato-elements
+(winhttrack https://bestwpware.com/html/tf/edumim/?storefront=envato-elements -O "/Users/thangnguyen/Documents/ICC/ITLAB/Project/Httrack/topdonhang" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:31:30	Error: 	"Not Found" (404) at link https://bestwpware.com/html/tf/edumim/assets/images/logo/favicon.svg (from https://bestwpware.com/html/tf/edumim/?storefront=envato-elements)
+09:34:27	Error: 	"Not Found" (404) at link https://bestwpware.com/html/tf/edumim/assets/images/icon/mail-white.svg (from https://bestwpware.com/html/tf/edumim/?storefront=envato-elements)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 12 seconds : 243 links scanned, 240 files written (37130861 bytes overall) [35561405 bytes received at 141116 bytes/sec], 2604978 bytes transferred using HTTP compression in 136 files, ratio 27%, 22.0 requests per connection
+(2 errors, 0 warnings, 0 messages)
